@@ -1,5 +1,4 @@
-#image link=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thefashionlaw.com%2Fone-of-damien-hirsts-spot-paintings-was-separated-into-88-spots-and-sold-individually%2F&psig=AOvVaw2Z9h732FbCEVCXCWqtspGy&ust=1634566371346000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIihkLPQ0fMCFQAAAAAdAAAAABAD
-
+#image link=https://www.thefashionlaw.com/wp-content/uploads/2020/04/https-hypebeast.com-image-2020-04-mschf-damien-hirst-severed-spots-project-000-e1588260357694.jpg
 
 import colorgram
 
